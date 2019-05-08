@@ -4,4 +4,4 @@ Hello World!
 
 ## About
 
-Here more info about the project.
+Add here more info about the project.
